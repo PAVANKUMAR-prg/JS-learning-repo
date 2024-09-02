@@ -11,8 +11,19 @@ let valueInNumber = Number(score)
 
 let isLoggedIn = 0;
 let booleanValue = Boolean(isLoggedIn)
-console.log(booleanValue);
+//console.log(booleanValue);
 
 //This is all about conversioning from one type to other 
+
+
+//operation -------------------------------
+
+// operations are like making addition , substraction like things ,
+//while we doing them neeed to carefull what will happens
+
+//Also mind need to write readable code that's it about operations 
+
+
+  
 
 
