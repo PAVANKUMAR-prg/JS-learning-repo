@@ -1,6 +1,7 @@
 const accountId = 12345;
 let accEmail = "Pavan555@gmail.com";
 var accountPwd = "12345";
+var x;
 accountCity = "Jaipur"// it is also possible in js 
 //accountId = 2;
 let accountState;
