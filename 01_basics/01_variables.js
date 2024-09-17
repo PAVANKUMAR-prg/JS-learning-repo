@@ -7,7 +7,7 @@ accountCity = "Jaipur"// it is also possible in js
 let accountState;
 
 console.log(accountCity);
-/*
+/* 
 Prefer not use var, because of issue in block and 
 functional scope
 */
