@@ -26,4 +26,6 @@ need to keep in mind.
 1.global execution context.
 2.memory phase.
 3.execution phase.
+
+one more thing any function returns means then it is returning to parent Global execution context.
 */
